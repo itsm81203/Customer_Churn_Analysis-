@@ -123,8 +123,8 @@ The analysis uses the **Telco Customer Churn** dataset (`Customer Churn.csv`), w
 **Gayatri Marathe**
 Data Analyst (Fresher) | SQL · Python · Power BI · Excel
 
-- 🔗 LinkedIn: `<add your LinkedIn link>`
-- 📧 Email: `<add your email>`
-- 💻 GitHub: `<add your GitHub link>`
+- 🔗 LinkedIn: `https://www.linkedin.com/in/gayatrimarathe87/`
+- 📧 Email: `gayatrimarathe87@gmail.com`
+- 💻 GitHub: `https://github.com/itsm81203`
 
 ⭐ If you found this project useful, consider giving it a star!
